@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uptpfi8i2qs1JlqraRTlW65yrUFlVahEuC4PrtoSTwJKJY6Ms87Ia6Gm3fri/uCpZZg8A5EWVEdyeOw8d6tdzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MEaym\\Desktop\\WinFormsApp2\\smithWatermanAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MEaym\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
